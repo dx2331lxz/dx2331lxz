@@ -5,12 +5,10 @@
 - 📫 How to reach me: luxiuzhe@itstudio.club
 - 😄 Read more about my Blog: [here](https://daoxuan.cc/)
 
-![](https://github-readme-stats.vercel.app/api?username=wisdom-zhe&show_icons=true&theme=transparent)
+| <a href="https://github.com/dx2331lxz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dx2331lxz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="dx2331lxz's github stats" /></a> | <a href="https://github.com/dx2331lxz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dx2331lxz&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/dx2331lxz/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dx2331lxz&layout=compact&theme=tokyonight)
-
 
 ### My Skill Set
 
