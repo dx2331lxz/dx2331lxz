@@ -11,5 +11,5 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/dx2331lxz/count.sv
 
 ### My Skill Set
 
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white)![C](https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white)![C#](https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white)
 
